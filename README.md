@@ -1,4 +1,4 @@
-<h1 align="center">vkolagotla v0.28.01</h1>
+<h1 align="center">vkolagotla v0.28.02</h1>
 
 [![Science is my jam](https://img.shields.io/badge/My%20jam-deeplearning-green?style=flat&logo=matrix&logoColor=white)](https://gitlab.com/vkolagotla/UNAGI) [![Status](https://img.shields.io/badge/Status-development-blue?style=flat&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Evolution) [![Native](https://img.shields.io/badge/Native-Python-blue?style=flat&logo=python&logoColor=white)](https://python.org/) <img align="right" src="/bender.gif" alt="go bender...🤖" width="34%"/>
 
